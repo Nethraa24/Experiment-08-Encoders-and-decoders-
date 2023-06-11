@@ -122,7 +122,7 @@ endmodule
 
 ### TIMING DIGRAMS  
 ## ENCODER
-![image](https://github.com/Nethraa24/Experiment-08-Encoders-and-decoders-/assets/121215786/b3e8cd47-8246-4740-8f25-9c9535fe599f)
+![image](https://github.com/NathinR/Experiment-08-Encoders-and-decoders-/assets/118679646/af233e4b-f409-4ab1-abb3-638af9cab952)
 ## DECODER
 ![image](https://github.com/Nethraa24/Experiment-08-Encoders-and-decoders-/assets/121215786/b7f556af-b355-404f-adcd-7065ac9ad90f)
 
