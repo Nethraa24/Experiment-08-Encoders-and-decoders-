@@ -125,8 +125,7 @@ endmodule
 ![image](https://github.com/Nethraa24/Experiment-08-Encoders-and-decoders-/assets/121215786/58fd272a-4c77-4b96-b149-4916bd54eb03)
 
 ## DECODER
-![image](https://github.com/Nethraa24/Experiment-08-Encoders-and-decoders-/assets/121215786/a07e1e12-0e18-40eb-a4be-b5f74c2a8348)
-
+![image](https://github.com/Nethraa24/Experiment-08-Encoders-and-decoders-/assets/121215786/860771b7-d25e-4089-b4cd-4528968dbfae)
 
 ### TRUTH TABLE 
 ## ENCODER
