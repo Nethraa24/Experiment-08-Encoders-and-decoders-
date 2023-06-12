@@ -122,9 +122,11 @@ endmodule
 
 ### TIMING DIGRAMS  
 ## ENCODER
-![image](https://github.com/NathinR/Experiment-08-Encoders-and-decoders-/assets/118679646/af233e4b-f409-4ab1-abb3-638af9cab952)
+![image](https://github.com/Nethraa24/Experiment-08-Encoders-and-decoders-/assets/121215786/58fd272a-4c77-4b96-b149-4916bd54eb03)
+
 ## DECODER
-![image](https://github.com/Nethraa24/Experiment-08-Encoders-and-decoders-/assets/121215786/b7f556af-b355-404f-adcd-7065ac9ad90f)
+![image](https://github.com/Nethraa24/Experiment-08-Encoders-and-decoders-/assets/121215786/a07e1e12-0e18-40eb-a4be-b5f74c2a8348)
+
 
 ### TRUTH TABLE 
 ## ENCODER
